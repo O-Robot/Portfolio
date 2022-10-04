@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.af8f4a53.chunk.css",
-    "main.js": "/static/js/main.d85f3ea7.chunk.js",
+    "main.js": "/static/js/main.f8a2ed57.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.d0908954.js",
-    "static/js/2.d784baab.chunk.js": "/static/js/2.d784baab.chunk.js",
+    "static/js/2.57723feb.chunk.js": "/static/js/2.57723feb.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.7dbc943d6474f2344740fc69814e3bfd.js": "/precache-manifest.7dbc943d6474f2344740fc69814e3bfd.js",
+    "precache-manifest.4af4df547b7b0ca560208d9d47166f1f.js": "/precache-manifest.4af4df547b7b0ca560208d9d47166f1f.js",
     "service-worker.js": "/service-worker.js",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/acl.svg": "/static/media/acl.a53090dc.svg",
@@ -13,7 +13,7 @@
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
     "static/media/audit.png": "/static/media/audit.9612d18e.png",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
-    "static/media/car-rob.png": "/static/media/car-rob.07d4df36.png",
+    "static/media/car-rob.png": "/static/media/car-rob.8a4a01f4.png",
     "static/media/car-rob3.png": "/static/media/car-rob3.30ba6da1.png",
     "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
     "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
@@ -29,6 +29,7 @@
     "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png",
     "static/media/logo.png": "/static/media/logo.fd636aea.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.83ac24fb.svg",
+    "static/media/myDp.png": "/static/media/myDp.1a91631f.png",
     "static/media/nesa.png": "/static/media/nesa.1002b980.png",
     "static/media/oau.png": "/static/media/oau.65855f36.png",
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
@@ -42,8 +43,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d0908954.js",
-    "static/js/2.d784baab.chunk.js",
+    "static/js/2.57723feb.chunk.js",
     "static/css/main.af8f4a53.chunk.css",
-    "static/js/main.d85f3ea7.chunk.js"
+    "static/js/main.f8a2ed57.chunk.js"
   ]
 }

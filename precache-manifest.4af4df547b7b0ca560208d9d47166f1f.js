@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99b45328ebdcc36369e6f339ee31183e",
+    "revision": "4d83e8b63ff8423c62213544cb97359c",
     "url": "/index.html"
   },
   {
-    "revision": "c3e3f2cc9d51fb98233e",
+    "revision": "817b51da35bc3086a8fa",
     "url": "/static/css/main.af8f4a53.chunk.css"
   },
   {
-    "revision": "92d20132147f2e80d78e",
-    "url": "/static/js/2.d784baab.chunk.js"
+    "revision": "81611308c69d199d45f7",
+    "url": "/static/js/2.57723feb.chunk.js"
   },
   {
-    "revision": "c3e3f2cc9d51fb98233e",
-    "url": "/static/js/main.d85f3ea7.chunk.js"
+    "revision": "817b51da35bc3086a8fa",
+    "url": "/static/js/main.f8a2ed57.chunk.js"
   },
   {
     "revision": "b449bc4e6a1ee18b7675",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/blogs_image.058eca4c.svg"
   },
   {
-    "revision": "07d4df364aa48421481a400114fc78f2",
-    "url": "/static/media/car-rob.07d4df36.png"
+    "revision": "8a4a01f4b29ed0abadbe21dc30bdeed5",
+    "url": "/static/media/car-rob.8a4a01f4.png"
   },
   {
     "revision": "30ba6da115a50beeb5ff200666373baf",
@@ -190,6 +190,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/static/media/manOnTable.83ac24fb.svg"
+  },
+  {
+    "revision": "1a91631fb6e5ec5a9d62b3d6b35986c2",
+    "url": "/static/media/myDp.1a91631f.png"
   },
   {
     "revision": "1002b980d1cf251058b8cece1d43b583",
